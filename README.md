@@ -3,6 +3,8 @@
 | **Plugins** | **BossPluginFix** |
 | --- | --- |
 | **Version** | **3.21.0** |
+| **Author** | **HmmHmmmm** |
+| **Fix And Vietnamese** | **ClickedTran** |
 
 <br>
 <p align="center">
@@ -17,7 +19,8 @@
 
 ## Credits / Virions Used
 - [FormAPI](https://github.com/jojoe77777/FormAPI) (Jojoe77777)
-- [PureEntityX] (https://github.com/RevivalPMMP/PureEntitiesX) (RevivalPMMP)
+<br>
+- [PureEntityX](https://github.com/RevivalPMMP/PureEntitiesX) (RevivalPMMP)
 
 <br>
 
